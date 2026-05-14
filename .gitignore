@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# Env
+.env
+
+# VSCode (같이 쓸 경우)
+.vscode/
